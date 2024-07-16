@@ -75,17 +75,17 @@ body {
 	margin-bottom: 60px;
 	font-size: 30px;
 }
+#about-me p {
+	width: 80%;
+	font-size: 14px;
+}
 .about-me__introduction {
 	font-family: 'Spectral';
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
+	font-size: 20px;
 }
-#about-me p {
-	width: 80%;
-	font-size: 14px;
-}
-
 .title{
 	text-align: center;
 	padding-block: 2em;
