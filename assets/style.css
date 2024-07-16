@@ -75,7 +75,7 @@ body {
 	margin-bottom: 60px;
 	font-size: 30px;
 }
-#about-me p {
+.about-me__sous-introduction {
 	width: 80%;
 	font-size: 14px;
 }
