@@ -75,8 +75,10 @@ body {
 	margin-bottom: 60px;
 	font-size: 30px;
 }
-.about-me__sous-introduction {
+#about-me p {
 	width: 80%;
+}
+.about-me__sous-introduction {
 	font-size: 14px;
 }
 .about-me__introduction {
@@ -84,7 +86,7 @@ body {
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
-	font-size: 20px;
+	font-size: 16px;
 }
 .title{
 	text-align: center;
