@@ -7,6 +7,10 @@ body {
 	font-style: normal;
 }
 .top-header {
+	background-color: white;
+	position: sticky;
+	top:0;
+	z-index: 1000;
 	display: flex;
 	justify-content: space-between;
 	padding-inline: 100px;
