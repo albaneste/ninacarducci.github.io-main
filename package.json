@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 {}
+=======
+{
+  "dependencies": {
+    "cloudinary": "^2.3.0"
+  }
+}
+>>>>>>> 8d916f7856746c93e1418c7ad85e3be621b1bdd9
